@@ -21,4 +21,4 @@ github 图片链接格式：
  ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
  
 ![image](https://github.com/yuchengstudio/Github-/raw/master/pictures/111.jpg)
-！[image](https://github.com/yuchengstudio/Github-/raw/master/pictures/111.jpg)
+![image](https://github.com/yuchengstudio/Github-/raw/master/pictures/111.jpg)
