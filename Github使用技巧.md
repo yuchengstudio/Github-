@@ -4,8 +4,8 @@
 将图片放在仓库里面，在文件里链接它，最后 push 到 github 上。
 
 github 图片链接格式：
-
-(http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)
+命令格式
+    ![image](http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)
 
 要自己设定的：yourname, your-repository, your-folder, xxx.png。
 
@@ -33,5 +33,6 @@ github 图片链接格式：
 
 ![image](https://github.com/yuchengstudio/Github-/blob/master/pictures/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%873.png)
 ![image](https://github.com/yuchengstudio/Github-/blob/master/pictures/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%872.png)
+i[image](https://github.com/yuchengstudio/Github-/blob/master/pictures/insert_picture_command.png)
 
 
