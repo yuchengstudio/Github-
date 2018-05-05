@@ -26,7 +26,7 @@ github 图片链接格式：
     a.如何在repository下建文件夹，以及如何加载图片素材
     a.如何快速找到图片地址
 ![image](https://github.com/yuchengstudio/Github-/blob/master/pictures/%E5%88%9B%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B91.png)
-https://github.com/yuchengstudio/Github-/blob/master/pictures/%E5%88%9B%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B92.png
+
 ![image](https://github.com/yuchengstudio/Github-/blob/master/pictures/%E5%88%9B%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B92.png)
 
 ![image](https://github.com/yuchengstudio/Github-/blob/master/pictures/%E6%96%87%E4%BB%B6%E5%88%9B%E5%BB%BA%E7%A4%BA%E4%BE%8Ba.png)
