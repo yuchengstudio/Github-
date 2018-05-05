@@ -5,7 +5,7 @@
 
 github 图片链接格式：
 命令格式
-    ![image](http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)
+"![image](http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)" (实际使用为双引号里面的内容)
 
 要自己设定的：yourname, your-repository, your-folder, xxx.png。
 
@@ -33,6 +33,6 @@ github 图片链接格式：
 
 ![image](https://github.com/yuchengstudio/Github-/blob/master/pictures/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%873.png)
 ![image](https://github.com/yuchengstudio/Github-/blob/master/pictures/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%872.png)
-i[image](https://github.com/yuchengstudio/Github-/blob/master/pictures/insert_picture_command.png)
+![image](https://github.com/yuchengstudio/Github-/blob/master/pictures/insert_picture_command.png)
 
 
