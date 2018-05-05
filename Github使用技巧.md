@@ -29,4 +29,6 @@ github 图片链接格式：
 https://github.com/yuchengstudio/Github-/blob/master/pictures/%E5%88%9B%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B92.png
 ![image](https://github.com/yuchengstudio/Github-/blob/master/pictures/%E5%88%9B%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B92.png)
 
+![image](https://github.com/yuchengstudio/Github-/blob/master/pictures/%E6%96%87%E4%BB%B6%E5%88%9B%E5%BB%BA%E7%A4%BA%E4%BE%8Ba.png)
+
 
