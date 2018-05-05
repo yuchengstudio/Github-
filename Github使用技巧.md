@@ -20,5 +20,10 @@ github 图片链接格式：
 
  ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
  
+ 示例结果如下：
 ![image](https://github.com/yuchengstudio/Github-/raw/master/pictures/111.jpg)
-![image](https://github.com/yuchengstudio/Github-/blob/master/pictures/111.jpg)
+## 实际操作说明
+    a.如何在repository下建文件夹，以及如何加载图片素材
+    a.如何快速找到图片地址
+![image]()
+
