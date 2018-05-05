@@ -4,8 +4,7 @@
 将图片放在仓库里面，在文件里链接它，最后 push 到 github 上。
 
 github 图片链接格式：
-命令格式
-"![image](http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)" (实际使用为双引号里面的内容)
+(http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)
 
 要自己设定的：yourname, your-repository, your-folder, xxx.png。
 
