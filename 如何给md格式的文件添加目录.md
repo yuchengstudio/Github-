@@ -12,7 +12,9 @@
   ![images](https://github.com/yuchengstudio/Github-/blob/master/pictures/mulu_01.jpg)
   
   
+  
 # 2. 一级目录语法
+![images](https://github.com/yuchengstudio/Github-/blob/master/pictures/mulu_002.jpg)
 
 
 ## 2.1. 二级目录语法
