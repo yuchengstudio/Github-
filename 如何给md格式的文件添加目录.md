@@ -1,5 +1,5 @@
 * [1. 简介](#1-简介)
-* [2. 使用Atmel Studio开发](#2使用atmel-studio开发) 
+* [2. 使用Atmel Studio开发](#2-使用atmel-studio开发) 
    * [2.1 下载 IDE](#21-下载ide)
    * [2.2 安装 IDE](#22-安装ide)
    * [2.3 获取 SDK](#23-获取sdk)
