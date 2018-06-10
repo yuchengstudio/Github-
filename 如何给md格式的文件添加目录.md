@@ -5,7 +5,10 @@
  
    
 # 1. 简介
-  本节内容主要描述如何在.md格式的文件里创建目录。
+```
+  本节内容的目的主要描述如何在.md格式的文件里创建目录。
+  产生如图1显示的效果，点击相应的目录会跳转到相应的章节。
+```
   ![images](https://github.com/yuchengstudio/Github-/blob/master/pictures/mulu_01.jpg)
   
   
