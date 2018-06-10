@@ -6,6 +6,8 @@
    
 # 1. 简介
   本节内容主要描述如何在.md格式的文件里创建目录。
+  ![images](https://github.com/yuchengstudio/Github-/blob/master/pictures/mulu_01.jpg)
+  
   
 # 2. 一级目录语法
 
