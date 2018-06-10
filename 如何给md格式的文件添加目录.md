@@ -12,7 +12,7 @@
 
 下面分别讲解如何使用 Atmel Studio IDE 或者 AliOS Studio IDE，进行开发板相应的 SDK 编译与下载。 
 
-# 2.使用Atmel Studio开发
+## 2.使用Atmel Studio开发
 
 ### 2.1 下载IDE
 点击 [ Atmel Studio 下载](http://www.microchip.com/avr-support/atmel-studio-7)，进入开发工具下载列表页面。在列表中，选择适用于您 PC 系统类型的安装程序版本。
