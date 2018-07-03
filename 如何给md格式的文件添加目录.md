@@ -14,7 +14,9 @@
 * [2. 一级目录语法](#2-一级目录语法)  
   * [2.1 二级目录语法](#21-二级目录语法)
     * [2.1.1 三级目录语法](#211-三级目录语法)
-    
+
+# 1. 简介
+
 # 2. 一级目录语法
 ![images](https://github.com/yuchengstudio/Github-/blob/master/pictures/mulu_002.jpg)
 
