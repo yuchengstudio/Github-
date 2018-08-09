@@ -6,6 +6,10 @@
 github 图片链接格式：
 (http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)
 
+```
+![image](https://github.com/yuchengstudio/Github-/raw/master/pictures/111.jpg)
+```
+
 要自己设定的：yourname, your-repository, your-folder, xxx.png。
     
     yourname            ---  你的帐号
